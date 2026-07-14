@@ -12,7 +12,7 @@ I started this repo after rebuilding my global preferences from scratch. My firs
 
 ## What's here now
 
-- [`global-preferences.md`](global-preferences.md): The instruction set that loads into every conversation. It covers how I want Claude to engage with my reasoning, when to push back and when to concede, response length defaults, and accuracy rules. The file includes design notes explaining the reasoning behind each section.
+- [`Global Preferences.md`](<../instructions/Global Preferences.md>): The instruction set that loads into every conversation. It covers how I want Claude to engage with my reasoning, when to push back and when to concede, response length defaults, and accuracy rules. The file includes design notes explaining the reasoning behind each section.
 
 ## What's coming
 
