@@ -4,11 +4,9 @@ SPDX-License-Identifier: CC-BY-4.0
 -->
 # Global Preferences
 
-These are the standing preferences in my Claude settings (Settings, then Profile, then Personal preferences). They load into every conversation.
+These are the standing preferences in my Claude settings (Settings -> General -> Instructions for Claude). They load into every conversation.
 
 The problem they solve: my original instructions told Claude to be a ruthless mentor. Challenge my assumptions before validating them, never optimize for brevity, stress test everything. I got exactly that. Pushback on reasoning that was already sound, and long answers to short questions. These instructions make scrutiny conditional instead of constant, and they give the pushback an exit.
-
-The dashes inside the block below are intentional. This is the literal text from my settings, kept exactly as it runs.
 
 ---
 
